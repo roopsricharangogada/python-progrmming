@@ -1,0 +1,21 @@
+#a + bj
+a = 10+20j
+print(type(a))
+
+b = 20.23
+print(type(b))
+
+c = "sri charan"
+print(type(c))
+
+s = 10
+t = 20
+c = a<b
+print(type(c))
+
+print(True+True)
+print(True*False)
+
+print("charan")
+print('charan')
+print('''charan''')
