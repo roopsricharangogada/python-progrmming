@@ -1,0 +1,6 @@
+# string + string
+print("hello"+ ' '+"world")
+printf("aditya"+' '+"university)
+
+#string*integer
+print("python"*4)
